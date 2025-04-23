@@ -4,7 +4,7 @@ int main()
 
 	int user;
 
-	printf("Enter a number less then 6 and not 1 >> ");
+	printf("Enter a number less then 6 and not 1 and learn time table today>> ");
 		scanf("%d", &user);
 	if(user == 2){
 	
